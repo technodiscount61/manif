@@ -1,0 +1,20 @@
+{
+  "name": "Технодисконт61",
+  "short_name": "Технодисконт61",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://static.tildacdn.com/tild3537-6332-4361-a132-336337373436/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://static.tildacdn.com/tild3235-3938-4435-b334-653565386433/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
